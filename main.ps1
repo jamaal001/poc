@@ -1,4 +1,4 @@
-$botToken = '8002691180:7556242220:AAGYpWUw0gxiUDjY9XprvYRHOupks1ktU3I'
+$botToken = '8002691180:AAGTuLHzMiU5Qf0XCeDi8wt8P0UFDdBnaD0'
 $uri = "https://api.telegram.org/bot$botToken/"
 $sessions = @{}
 $activeSessions = @{}
